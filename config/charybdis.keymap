@@ -28,8 +28,8 @@
             bindings = <
 &trans        &trans  &trans  &trans  &trans  &trans    &trans  &kp KP_NUMLOCK  &kp KP_EQUAL  &kp KP_DIVIDE  &kp Q            &kp DELETE
 &trans        &trans  &trans  &trans  &trans  &trans    &trans  &kp N7          &kp N8        &kp N9         &kp KP_SUBTRACT  &trans
-&kp CAPSLOCK  &trans  &trans  &trans  &trans  &trans    &kp T   &kp N4          &kp N5        &kp N6         &kp PLUS         &trans
-&trans        &trans  &trans  &trans  &trans  &trans    &kp T   &kp N1          &kp N2        &kp N3         &kp DOT          &trans
+&kp CAPSLOCK  &trans  &trans  &trans  &trans  &trans    &none   &kp N4          &kp N5        &kp N6         &kp PLUS         &trans
+&trans        &trans  &trans  &trans  &trans  &trans    &none   &kp N1          &kp N2        &kp N3         &kp DOT          &trans
                               &trans  &trans  &trans    &trans  &trans          &kp N0
                                       &trans  &trans    &trans  &trans
             >;
